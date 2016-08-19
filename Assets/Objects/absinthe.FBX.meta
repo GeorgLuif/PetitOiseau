@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 9ce83da41f7064074b40e1d8865cbc39
+timeCreated: 1448058188
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Etiketa
+    100004: Flasa
+    100006: Line01
+    100008: Line01 1
+    100010: Line02
+    100012: Line03
+    100014: Line04
+    100016: Line05
+    100018: Line06
+    100020: OilTank01
+    100022: Pampur
+    100024: Podloga
+    100026: VRayLight01
+    400000: //RootNode
+    400002: Etiketa
+    400004: Flasa
+    400006: Line01
+    400008: Line01 1
+    400010: Line02
+    400012: Line03
+    400014: Line04
+    400016: Line05
+    400018: Line06
+    400020: OilTank01
+    400022: Pampur
+    400024: Podloga
+    400026: VRayLight01
+    2300000: Etiketa
+    2300002: Flasa
+    2300004: Line02
+    2300006: Line03
+    2300008: Line04
+    2300010: OilTank01
+    2300012: Pampur
+    2300014: Podloga
+    3300000: Etiketa
+    3300002: Flasa
+    3300004: Line02
+    3300006: Line03
+    3300008: Line04
+    3300010: OilTank01
+    3300012: Pampur
+    3300014: Podloga
+    4300000: Flasa
+    4300002: Line02
+    4300004: Etiketa
+    4300006: Pampur
+    4300008: Podloga
+    4300010: OilTank01
+    4300012: Line03
+    4300014: Line04
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

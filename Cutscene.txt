@@ -1,0 +1,17 @@
+Initial|Emilie has always enjoyed thinking about herself in the third person. She feels it helps her think more clearly with regard to decision making. She keeps a journal where she records her feelings and decisions. @
+
+Agreement|Emilie is no stranger to compromise. The art is what is important. The art... the art.@
+
+Warrior|Emilie pushes forward. When she is not working She is painting. When she is not painting, she is selling. When she is not selling, she is drinking.@
+
+Party|Absinthe and new friends ensure a steady progression in Emilie’s art scene.@
+
+Depression|Emilie must make sense of things. If she could only whittle her feelings into objectifiable forms…@
+
+Commune|Emilie feels full when she's with her artist friends. She joins an art colony.@
+
+CommuneEnd|Emilie lives eccentrically happy with Paul and the cats.@ 
+
+DepressionEnd|Emilie is lost.@
+
+PartyEnd|Emilie lives life amplified whenever possible, and her work encapsulates that. Her art becomes a flourishing career in advertising. 

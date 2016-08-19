@@ -1,0 +1,31 @@
+RentLetter|empty|empty|Merde! I get it, I get it!@
+
+AdvertisingLetter|Bonjour Emilie!|We are seeking an artist who can completely design our advertising posters, and one of our board members, Monsieur Beaucoup suggested you were an ideal candidate, an artist who understands commerce. We will pay handsomely for any work we deem of value to the brand. This would require relocation to Quebec. Let us know if you have interest.The very best, Entreprise d'Alcool Française@
+
+CommuneLetter||empty|empty|Interesting...@
+
+LetterIntro1|Emilie,|What foolishness has overcome you? You’ve been stubborn and selfish since you played with dolls, but this is beyond comprehension. You can do your little paintings just as easily from your room here. You’ll see what ruin will befall you from this horrendous amour fou you have for the city. Until then I will be praying for the return of your senses. With great distress, Mother|Take a pill, woman!@
+
+LetterIntro2|Darling Emilie,|Petit a petit, l’oiseau fait son nid? So little by little, the bird makes its nest, eh? I am so proud of you! Soon I will be hearing about your work in the exhibitions, alongside the greats! Take care little bird, and remember to keep those wings dry.Your Papa|Ah, papa, no one understands me as you.@
+
+LetterWarrior|Darling Emilie,|Your mother cares for you, but as they say, “Il n’y a pas plus sourd que celui qui ne veut pas entendre.” No one is as deaf as the one who does not want to listen. I believe in you and know your light will shine in any location. Even prison, if you kill your mama! (Just kidding, please don’t do that, I need someone to make my breakfast!) Please write to me and tell me of my little bird’s adventures. With much care, Papa|No time, Papa!@
+
+LetterAgreement|Hello Emilie,|You are missed here at home. I hope the big city isn’t too much for you to handle and you are able to look after yourself. Papa worries about you but I tell him you are fine. Mama suspects something since you haven’t called for more francs in a long time but I tell her to relax and you are just selling more than you used to… it’s not a lie, anyway!  Keep up your work, so long as I am stuck here I will remain envious. Your loving sister, Padget|I miss you, Padget!@
+
+LetterParty|Emilie,|I tried calling the other day and some strange man answered, I couldn’t understand him and he didn’t know where he was! What’s the meaning of this? You haven’t written in weeks and while I don’t doubt the importance of your awards I’d hope you also find your family important as well. Your sister visits us weekly, yet we haven’t seen you since last June. Your father says you are enjoying life and to leave you be, se ressemblent, you are both alike.With great distress,Mother|Oof, and I am reminded why I haven’t been...@
+
+LetterCommune|Dearest Emilie,|The stories of your cats are fantastic! Imagine, a little bird that tells the best cat stories! You should put them to print for children’s books, they are exactly like the stories you and Padget wanted me to tell you as a child, I’ve no doubt they would be popular! Best to Paul and each of your little furry children. Much love, Papa|Yes, I’ve been working on this idea for months!@
+
+LetterDepression|Hello Emilie,|I can’t wait to see you for the holiday, it will be just like when we were children, talking all night when we should be asleep! I know things have been rough for you but I think once you visit all will be well, it is exhausting to continue at the pace you are going, so take a break once in a while and have some fun!Until I see you soon, Padget|If it were only that easy, Padget.@
+
+BouquetLetter|empty|empty|A gentleman, at least.@
+
+MoneyLetter|empty|empty|Merci, I suppose.@ 
+
+CallingCard1|empty|empty|He was okay.@
+
+CallingCard2|empty|empty|He knows people.@
+
+CallingCard3|empty|empty|Too nice.@
+
+CallingCard4|empty|empty|Very handsome, not much else.@

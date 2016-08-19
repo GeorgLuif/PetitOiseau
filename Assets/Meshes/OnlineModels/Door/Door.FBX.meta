@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: d9d723d6376364f4b91ae25a06a5c483
+timeCreated: 1446618426
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Espelho_001
+    100004: Espelho_002
+    100006: Group_001
+    100008: Group_002
+    100010: Group_003
+    100012: Group_004
+    100014: Guia da Massaneta_001
+    100016: Guia da Massaneta_002
+    100018: Massaneta_001
+    100020: Massaneta_002
+    100022: Portal - Alisar_001
+    100024: Portal - Alisar_002
+    100026: Tambor_001
+    100028: Tambor_002
+    400000: //RootNode
+    400002: Espelho_001
+    400004: Espelho_002
+    400006: Group_001
+    400008: Group_002
+    400010: Group_003
+    400012: Group_004
+    400014: Guia da Massaneta_001
+    400016: Guia da Massaneta_002
+    400018: Massaneta_001
+    400020: Massaneta_002
+    400022: Portal - Alisar_001
+    400024: Portal - Alisar_002
+    400026: Tambor_001
+    400028: Tambor_002
+    2300000: Espelho_001
+    2300002: Espelho_002
+    2300004: Group_001
+    2300006: Group_002
+    2300008: Group_003
+    2300010: Group_004
+    2300012: Guia da Massaneta_001
+    2300014: Guia da Massaneta_002
+    2300016: Massaneta_001
+    2300018: Massaneta_002
+    2300020: Portal - Alisar_001
+    2300022: Portal - Alisar_002
+    2300024: Tambor_001
+    2300026: Tambor_002
+    3300000: Espelho_001
+    3300002: Espelho_002
+    3300004: Group_001
+    3300006: Group_002
+    3300008: Group_003
+    3300010: Group_004
+    3300012: Guia da Massaneta_001
+    3300014: Guia da Massaneta_002
+    3300016: Massaneta_001
+    3300018: Massaneta_002
+    3300020: Portal - Alisar_001
+    3300022: Portal - Alisar_002
+    3300024: Tambor_001
+    3300026: Tambor_002
+    4300000: Group_001
+    4300002: Guia da Massaneta_001
+    4300004: Massaneta_001
+    4300006: Tambor_001
+    4300008: Espelho_001
+    4300010: Guia da Massaneta_002
+    4300012: Massaneta_002
+    4300014: Tambor_002
+    4300016: Espelho_002
+    4300018: Group_002
+    4300020: Group_003
+    4300022: Group_004
+    4300024: Portal - Alisar_001
+    4300026: Portal - Alisar_002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

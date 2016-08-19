@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: e0a292026b7d00445978c75adb1aacfd
+timeCreated: 1447970916
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Coal
+    100004: Coal001
+    100006: Coal002
+    100008: Coal003
+    100010: Coal004
+    100012: Coal005
+    100014: Deckel
+    100016: fuss1
+    100018: fuss2
+    100020: fuss3
+    100022: fuss4
+    100024: griff1
+    100026: griff2
+    100028: griff3
+    100030: griff4
+    100032: griff5
+    100034: Group1
+    100036: Model
+    100038: Oven
+    100040: sch_rhaken1
+    100042: Smoke
+    100044: //RootNode
+    400000: Box001
+    400002: Coal
+    400004: Coal001
+    400006: Coal002
+    400008: Coal003
+    400010: Coal004
+    400012: Coal005
+    400014: Deckel
+    400016: fuss1
+    400018: fuss2
+    400020: fuss3
+    400022: fuss4
+    400024: griff1
+    400026: griff2
+    400028: griff3
+    400030: griff4
+    400032: griff5
+    400034: Group1
+    400036: Model
+    400038: Oven
+    400040: sch_rhaken1
+    400042: Smoke
+    400044: //RootNode
+    2300000: Box001
+    2300002: Coal
+    2300004: Coal001
+    2300006: Coal002
+    2300008: Coal003
+    2300010: Coal004
+    2300012: Coal005
+    2300014: Deckel
+    2300016: Oven
+    2300018: Smoke
+    3300000: Box001
+    3300002: Coal
+    3300004: Coal001
+    3300006: Coal002
+    3300008: Coal003
+    3300010: Coal004
+    3300012: Coal005
+    3300014: Deckel
+    3300016: Oven
+    3300018: Smoke
+    4300000: Oven
+    4300002: Deckel
+    4300004: Box001
+    4300006: Coal
+    4300008: Coal001
+    4300010: Coal002
+    4300012: Coal003
+    4300014: Coal004
+    4300016: Coal005
+    4300018: Smoke
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
