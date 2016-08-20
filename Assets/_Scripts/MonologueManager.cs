@@ -9,8 +9,10 @@ public class MonologueManager : MonoBehaviour {
     public float defaultDuration = 8f;
     public Text textObj;
     public float letterPause = 0.3f;
-    
+    public float sentencePause = .2f;
     public bool playingMonologue = false;
+
+    public int maxSentenceLength = 40;
 
     void Start()
     {
@@ -41,15 +43,58 @@ public class MonologueManager : MonoBehaviour {
         playingMonologue = true;
         yield return new WaitForSeconds(delay);
         AudioManager.instance.PlayAudioClip(speakSound, transform.position, false);
-        print("<color=orange>Showing Monologue</color>");
         if (duration <= 0f) { duration = defaultDuration; }
         textObj.text = "";
 
-        foreach (char letter in msg)
+
+        string[] words = msg.Split(' ');
+
+        List<string> sentences = new List<string>();
+        
+        string sentence = "";
+        // for each word
+        for (int i = 0; i < words.Length; i++)
         {
-            textObj.text += letter;
-            yield return new WaitForSeconds(letterPause);
+            print("<color=orange>Adding word " + words[i] + "</color>");
+            // check if word itself isnt over, say 40 letters
+            if (words[i].ToCharArray().Length > maxSentenceLength)
+            {
+                print("word too long, skipping");
+                continue;
+            }
+
+
+            // check if sentence + new word is smaller than max sentence length
+            if (sentence.ToCharArray().Length + words[i].ToCharArray().Length <= maxSentenceLength) {
+                sentence += " " + words[i];
+                print("adding word " + words[i] + " to sentence");
+            }
+            
+                
+            else
+            {
+                print("adding sentence  '" + sentence + "'  to sentence array");
+                sentences.Add(sentence);
+                sentence = "";
+            }
+
+            if(i == words.Length -1)
+                sentences.Add(sentence);
         }
+
+        print("<color=orange>Showing Monologue</color>");
+        for (int e = 0; e < sentences.Count; e++)
+        {
+            textObj.text += sentences[e] +"\n";
+            yield return new WaitForSeconds(sentencePause);
+        }
+        
+
+        //foreach (char letter in msg)
+        //{
+        //    textObj.text += letter;
+        //    
+        //}
 
         playingMonologue = false;
 

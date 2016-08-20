@@ -61,11 +61,10 @@ public class CutsceneManager : MonoBehaviour {
 
     public IEnumerator PrintSentence(string s)
     {
-        foreach (char c in s)
-        {
-            cutsceneTextObject.text += c;
+        
+            cutsceneTextObject.text += s;
             yield return new WaitForSeconds(printSpeed);
-        }
+        
         yield break;
     }
 

@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 #if UNITY_EDITOR
 using UnityEditor;
-#endif
+
 
 
 [ExecuteInEditMode]
@@ -442,6 +442,9 @@ public class DataManager : MonoBehaviour
     public static DataManager instance;
     void Awake()
     {
+        if (!Application.isPlaying)
+            return;
+
         if (instance != null)
         {
             DestroyImmediate(gameObject);
@@ -453,3 +456,4 @@ public class DataManager : MonoBehaviour
     
     
 }
+#endif

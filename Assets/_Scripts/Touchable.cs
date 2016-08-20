@@ -163,10 +163,17 @@ public class Touchable : MonoBehaviour {
                     else
                     {
                         if (yesno)
-                            m.color += new Color(0.05f, 0.05f, 0.05f, 0f);
+                        {
+                            if(m.color != null)
+                                m.color += new Color(0.05f, 0.05f, 0.05f, 0f);
+                        }
+
 
                         if (!yesno)
-                            m.color -= new Color(0.05f, 0.05f, 0.05f, 0f);
+                        {
+                            if (m.color != null)
+                                m.color -= new Color(0.05f, 0.05f, 0.05f, 0f);
+                        }
                     }
         
                 }
